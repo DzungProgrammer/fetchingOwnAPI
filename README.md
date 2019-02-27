@@ -1,2 +1,0 @@
-# fetchingOwnAPI
-Created with CodeSandbox
